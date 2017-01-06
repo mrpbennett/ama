@@ -1,8 +1,6 @@
-# mrpbennett/ama
+# Chance to AMA!
 
-A repository to ask [@mrpbennett](https://twitter.com/mrpbennett) anything.
-
-I [work at PulsePoint](http://www.pulsepoint.com) have been here almost two years, day-to-day I'm an Account Manager on the supply side. In my downtime I code or play golf, I also really like a cat GIF! If you have a question you're interested in reading me tap out a response for, this is just the joint for you.
+This is a quick little ask-me-anything type of repository. It is forked from [@holman's feedback repo](https://github.com/holman/ama) and seems like a pretty fantastic idea in lieu of traditional blog comments, email, and the like.
 
 ### Ask a question
 
